@@ -9,5 +9,8 @@
     "@sanity/block-content-to-markdown": "^0.0.5",
     "@sanity/client": "^3.3.0",
     "fs-extra": "^10.1.0"
+  },
+  "scripts": {
+    "build": "node "
   }
 }

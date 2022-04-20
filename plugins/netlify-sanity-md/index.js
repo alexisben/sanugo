@@ -1,4 +1,4 @@
-module.exports = {
+plugin = {
   onPreBuild: async ({ utils, packageJson }) => {
     console.log("Starting plugin");
     //imports
@@ -70,3 +70,8 @@ module.exports = {
     }
   },
 };
+
+
+// plugin.onPreBuild({});
+
+module.exports = plugin;

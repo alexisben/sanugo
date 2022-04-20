@@ -1,0 +1,13 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:alexisben/sanugo.git",
+  "author": "alexisben <alexiben7@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@sanity/block-content-to-markdown": "^0.0.5",
+    "@sanity/client": "^3.3.0",
+    "fs-extra": "^10.1.0"
+  }
+}
